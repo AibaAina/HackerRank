@@ -11,7 +11,7 @@ using namespace std;
 int main() {
 
     int k=3;
-    vector<int> arr = {10, 100, 300, 200, 1000, 20, 30};
+    vector<int> arr = {10, 100, 300, 200, 1000, 20, 30, 40};
 
     int ans=INT_MAX;
     

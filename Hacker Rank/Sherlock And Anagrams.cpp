@@ -27,7 +27,6 @@ int main() {
 
     unordered_map<string, int>::iterator iter;
     for (iter=map.begin() ; iter!=map.end() ; iter++) {
-        // cout<<iter->first<<" "<<iter->second<<endl;
         if (iter->second>1) 
             ans += iter->second*(iter->second-1)/2;
     }
