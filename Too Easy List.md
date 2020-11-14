@@ -1,5 +1,5 @@
 # Too Easy List  
-Array - DS  
+Array-DS  
 A Very Big Sum  
 Compare the Triplet  
 Simple Array Sum  
@@ -9,3 +9,4 @@ Mini-Max Sum
 Birthday Cake Candles  
 Time Conversion  
 Viral Advertising  
+Sequence Equation  
