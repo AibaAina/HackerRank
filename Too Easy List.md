@@ -10,3 +10,5 @@ Birthday Cake Candles
 Time Conversion  
 Viral Advertising  
 Sequence Equation  
+Jumping on the Clouds: Revisited  
+Find Digits  
