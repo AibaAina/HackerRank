@@ -26,3 +26,7 @@ Apple and Orange
 11/16/2020  
 Number Line Jumps  
 Breaking the Records  
+
+11/17/2020  
+Picking Numbers  
+Sub-array Division  
