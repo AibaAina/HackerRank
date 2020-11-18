@@ -30,3 +30,7 @@ Breaking the Records
 11/17/2020  
 Picking Numbers  
 Sub-array Division  
+
+11/18/2020  
+Divisible Sum Pairs  
+Migratory Birds  
