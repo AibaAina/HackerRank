@@ -34,3 +34,19 @@ Sub-array Division
 11/18/2020  
 Divisible Sum Pairs  
 Migratory Birds  
+
+11/19/2020  
+Day of the Programmer  
+Bill Division  
+Drawing Book  
+Electronics Shop  
+Cats and a Mouse  
+The Hurdle Race  
+Designer PDF Viewer  
+Utopian Tree  
+Angry Professor  
+Beautiful Days at the Movies  
+Sherlock and Squares  
+Library Fine  
+Cut the sticks  
+Equalize the Array  
