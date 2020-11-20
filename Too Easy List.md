@@ -50,3 +50,6 @@ Sherlock and Squares
 Library Fine  
 Cut the sticks  
 Equalize the Array  
+
+11/20/2020  
+ACM ICPC Team  
