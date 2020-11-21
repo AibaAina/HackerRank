@@ -50,3 +50,13 @@ Sherlock and Squares
 Library Fine  
 Cut the sticks  
 Equalize the Array  
+  
+11/20/2020  
+Taum and B'day  
+  
+11/21/2020  
+Minimum Distances  
+Halloween Sale  
+Chocolate Feast  
+Service Lane  
+Lisa's Workbook  
