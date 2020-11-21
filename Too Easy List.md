@@ -50,7 +50,6 @@ Sherlock and Squares
 Library Fine  
 Cut the sticks  
 Equalize the Array  
-<<<<<<< HEAD
   
 11/20/2020  
 Taum and B'day  
@@ -61,8 +60,3 @@ Halloween Sale
 Chocolate Feast  
 Service Lane  
 Lisa's Workbook  
-=======
-
-11/20/2020  
-ACM ICPC Team  
->>>>>>> 0d4f9c439c7a9ffc118c8683c69e2cbec12a3c26
