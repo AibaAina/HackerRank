@@ -66,3 +66,9 @@ Flatland Space Stations
 Fair Rations  
 Cavity Map  
 Manasa and Stones  
+
+11/23/2020
+Intro to Tutorial Challenges  
+Insertion Sort - Part 1  
+Insertion Sort - Part 2  
+Correctness and the Loop Invariant  
