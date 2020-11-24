@@ -75,3 +75,6 @@ Correctness and the Loop Invariant
 
 11/24/2020  
 CamelCase  
+Strong Password  
+
+11/25/2020  
