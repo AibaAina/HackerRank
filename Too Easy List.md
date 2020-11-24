@@ -72,3 +72,6 @@ Intro to Tutorial Challenges
 Insertion Sort - Part 1  
 Insertion Sort - Part 2  
 Correctness and the Loop Invariant  
+
+11/24/2020  
+CamelCase  
