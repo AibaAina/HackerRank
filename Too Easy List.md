@@ -78,3 +78,7 @@ CamelCase
 Strong Password  
 
 11/25/2020  
+11/26/2020  
+Mars Exploration  
+HackerRank in a String!  
+Pangrams  
