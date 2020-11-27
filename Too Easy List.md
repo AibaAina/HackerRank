@@ -82,3 +82,10 @@ Strong Password
 Mars Exploration  
 HackerRank in a String!  
 Pangrams  
+
+11/27/2020
+Funny String  
+Gemstones  
+Beautiful Binary String  
+The Love-Letter Mystery  
+Anagram  
