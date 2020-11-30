@@ -76,8 +76,7 @@ Correctness and the Loop Invariant
 11/24/2020  
 CamelCase  
 Strong Password  
-
-11/25/2020  
+  
 11/26/2020  
 Mars Exploration  
 HackerRank in a String!  
@@ -100,3 +99,10 @@ Quicksort 1 - Partition
 Counting Sort 1  
 Counting Sort 2  
 The Full Counting Sort  
+  
+11/30/2020  
+Ice Cream Parlor  
+Missing Numbers  
+Sherlock and Array  
+Marc's Cakewalk  
+Grid Challenge  
