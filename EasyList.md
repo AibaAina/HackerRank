@@ -106,3 +106,9 @@ Missing Numbers
 Sherlock and Array  
 Marc's Cakewalk  
 Grid Challenge  
+
+12/01/2020  
+Maximum Perimeter Triangle  
+Sherlock and The Beast  
+Permuting Two Arrays  
+Priyanka and Toys  
