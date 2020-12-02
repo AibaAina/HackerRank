@@ -112,3 +112,7 @@ Maximum Perimeter Triangle
 Sherlock and The Beast  
 Permuting Two Arrays  
 Priyanka and Toys  
+
+12/02/2020  
+Lonely Integer  
+Maximizing XOR  
